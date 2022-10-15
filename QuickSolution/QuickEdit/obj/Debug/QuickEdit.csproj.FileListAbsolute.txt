@@ -1,0 +1,8 @@
+D:\PemrogramanLanjut\QuickSolution\QuickEdit\bin\Debug\QuickEdit.exe.config
+D:\PemrogramanLanjut\QuickSolution\QuickEdit\bin\Debug\QuickEdit.exe
+D:\PemrogramanLanjut\QuickSolution\QuickEdit\bin\Debug\QuickEdit.pdb
+D:\PemrogramanLanjut\QuickSolution\QuickEdit\obj\Debug\QuickEdit.csproj.AssemblyReference.cache
+D:\PemrogramanLanjut\QuickSolution\QuickEdit\obj\Debug\QuickEdit.csproj.SuggestedBindingRedirects.cache
+D:\PemrogramanLanjut\QuickSolution\QuickEdit\obj\Debug\QuickEdit.csproj.CoreCompileInputs.cache
+D:\PemrogramanLanjut\QuickSolution\QuickEdit\obj\Debug\QuickEdit.exe
+D:\PemrogramanLanjut\QuickSolution\QuickEdit\obj\Debug\QuickEdit.pdb
